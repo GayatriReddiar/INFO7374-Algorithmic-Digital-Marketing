@@ -1,4 +1,4 @@
-# INFO7374-Algorithmic-Digital-Marketing (Assignment 1 - DunnHumby)
+# INFO7374-Algorithmic-Digital-Marketing
 
 ## Team Information
 | Name        | NEU ID           | 
