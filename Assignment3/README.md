@@ -1,4 +1,4 @@
-# INFO7374-Algorithmic-Digital-Marketing (Assignment 3 - Visual Similarity Search):sunglasses:
+# INFO7374-Algorithmic-Digital-Marketing (Assignment 3 - Visual Similarity Search):mag:
 
 ## Team Information
 | Name        | NEU ID           | 
