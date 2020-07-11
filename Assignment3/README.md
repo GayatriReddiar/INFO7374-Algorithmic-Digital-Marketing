@@ -6,6 +6,13 @@
 | Gayatri Reddiar      | 001058953 | 
 | Rohan Kapadnis | 001342161      |   
 
+## Introduction
+Similarity search is the most general term used for a range of mechanisms which share the principle of searching (typically, very large) spaces of objects where the only available comparator is the similarity between any pair of objects. Nearest neighbor search and range queries are important subclasses of similarity search. The most general approach to similarity search relies upon the mathematical notion of metric space, which allows the construction of efficient index structures in order to achieve scalability in the search domain.
+We will be implementing following three methods for similarity search of images-
+1. **Cosine Similarity:** This algorithm contains both procedures and functions to calculate similarity between sets of data. The function is best used when calculating the similarity between small numbers of sets. The procedures parallelize the computation and are therefore more appropriate for computing similarities on bigger datasets. 
+2. **Facebook Artificial Intelligence Similarity Search (FAISS):** A library that allows us to quickly search for multimedia documents that are similar to each other. Facebook has built nearest-neighbor search implementations for billion-scale data sets that are some 8.5x faster than the previous reported state-of-the-art, along with the fastest k-selection algorithm on the GPU known in the literature. 
+3. **Spotify Annoy (Approximate Nearest Neighbors Oh Yeah):** Annoy is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data. Annoy has the ability to use static files as indexes which allows us to share indexes across processes.
+
 ## Claat Link
 (*https://codelabs-preview.appspot.com/?file_id=1zO_z8iwZpmQ-d7FugY5c7bvaCRmJpKjuff8pT2OD4Cw#7*)
 
