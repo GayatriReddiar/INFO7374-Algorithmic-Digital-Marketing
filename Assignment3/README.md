@@ -21,6 +21,8 @@ A total of 8 datasets form a basis of the DunnHumby data. Below are the differen
 ## Streamlit App
 https://similarity-search.herokuapp.com/
 
-<img width=“964” alt=“Similarity Search” src=“https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3/StreamlitApp1.png”/>
-<img src=“https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3/StreamlitApp1.png” raw=true alt=“Subject Pronouns” style=“margin-right: 10px;”/> 
+![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3/StreamlitApp2.png) 
+
+![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3/StreamlitApp1.png) 
+
 
