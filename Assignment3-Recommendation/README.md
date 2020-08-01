@@ -1,4 +1,6 @@
-# INFO7374-Algorithmic-Digital-Marketing (Assignment 3 - Visual Similarity Search):mag:
+# INFO7374-Algorithmic-Digital-Marketing (Assignment 3 - Recommendation System)
+
+![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3-Recommendation/reco.jpg)
 
 ## Team Information
 | Name        | NEU ID           | 
@@ -31,8 +33,3 @@ We also have a product dataset containing the snack name :
 1. Product_Id: unique identifier of the product
 2. Snack_name: product name
 3: Category: category of product
-
-
-![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3/StreamlitApp2.png) 
-
-![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Assignment3/StreamlitApp1.png) 
