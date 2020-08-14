@@ -14,3 +14,9 @@ The BuyFresh Supermarket Company is a chain of supermarkets located in the north
 2. Predict campaign performance metrics to predict future marketing campaigns
 3. Demand forecasting to predict sales and manage inventory
 4. Sales Dashboards to evaluate online sales
+
+## Claat Link
+(*https://codelabs-preview.appspot.com/?file_id=1wdHqHYIvsg2FpII6Xc2z8YEwWHigQWTqna8EDkITT4Y#1*)
+
+## Web Application 
+(*http://100.26.180.172:8501/*)
