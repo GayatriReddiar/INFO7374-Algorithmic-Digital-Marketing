@@ -6,7 +6,7 @@
 | Gayatri Reddiar      | 001058953 | 
 | Rohan Kapadnis | 001342161      |   
 
-![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Final-Project/reco.jpg)
+![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Final-Project/sm.jpg)
 
 ## Introduction
 The BuyFresh Supermarket Company is a chain of supermarkets located in the northeastern United States. From its beginnings in 1892 as a small grocery store, it has grown considerably. The store has now moved online and they want our help to evaluate how they're doing in terms of their digital presence and what more they can do to maintain a strong customer base while serving customers online. They also need help with managing their inventory by better understanding the demand given the rise in online purchases resulting from COVID.
