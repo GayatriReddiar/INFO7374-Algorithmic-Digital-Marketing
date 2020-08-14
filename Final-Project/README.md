@@ -19,7 +19,7 @@ The BuyFresh Supermarket Company is a chain of supermarkets located in the north
 
 
 ## Architecture
-![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Final-Project/ADMProjectFlow.png)
+![alt text](https://github.com/GayatriReddiar/INFO7374-Algorithmic-Digital-Marketing/blob/master/Final-Project/flow_project.png)
 
 ## Claat Link
 (*https://codelabs-preview.appspot.com/?file_id=1wdHqHYIvsg2FpII6Xc2z8YEwWHigQWTqna8EDkITT4Y#1*)
