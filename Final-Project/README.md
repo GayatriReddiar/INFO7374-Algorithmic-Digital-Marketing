@@ -25,4 +25,4 @@ The BuyFresh Supermarket Company is a chain of supermarkets located in the north
 (*https://codelabs-preview.appspot.com/?file_id=1wdHqHYIvsg2FpII6Xc2z8YEwWHigQWTqna8EDkITT4Y#1*)
 
 ## Web Application 
-(*http://100.26.180.172:8501/*)
+(*http://3.237.44.23:8501/*)
